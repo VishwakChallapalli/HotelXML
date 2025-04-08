@@ -1,0 +1,124 @@
+<Hotels>
+  <Hotel Rating="4.1">
+    <Name>University Inn Tempe/ASU</Name>
+    <Phone>480-555-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>902</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Sonesta Select Tempe Downtown</Name>
+    <Phone>480-555-2234</Phone>
+    <Phone>480-555-3234</Phone>
+    <Address>
+      <Number>1429</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.6">
+    <Name>Red Roof PLUS+ Tempe - Phoenix Airport</Name>
+    <Phone>480-555-3344</Phone>
+    <Address>
+      <Number>2135</Number>
+      <Street>S 48th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Scottsdale Parkview Resort</Name>
+    <Phone>480-555-4455</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>9500</Number>
+      <Street>E Indian Bend Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85250</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Tempe Mission Palms</Name>
+    <Phone>480-555-5566</Phone>
+    <Phone>480-555-5567</Phone>
+    <Address>
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="2.6">
+    <Name>SureStay Plus Hotel</Name>
+    <Phone>480-555-6677</Phone>
+    <Address>
+      <Number>1420</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Holiday Inn Express & Suites Tempe</Name>
+    <Phone>480-555-7788</Phone>
+    <Phone>480-555-7789</Phone>
+    <Address>
+      <Number>1520</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.7">
+    <Name>Motel 6 Tempe, AZ – Phoenix Airport</Name>
+    <Phone>480-555-8899</Phone>
+    <Address>
+      <Number>1550</Number>
+      <Street>Priest Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Moxy Phoenix Tempe/ASU Area</Name>
+    <Phone>480-555-9900</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>1333</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Graduate Tempe</Name>
+    <Phone>480-555-0001</Phone>
+    <Address>
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotels>

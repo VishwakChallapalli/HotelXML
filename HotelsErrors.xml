@@ -1,0 +1,38 @@
+<Hotel> <!-- "error" the root should be Hotels -->
+  <Hotel> <!--  "error" the missing required attribute "rating" -->
+    <Name>University Inn Tempe/ASU</Name>
+    <Phone>480-555-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>902</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <!--  "error" it is missing the </Address> closing tag -->
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Sonesta Select Tempe Downtown</Name>
+    <!-- "error" it is missing <Phone> -->
+    <Address>
+      <Number>1429</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <!-- "Error" it duplicates the <Name> elements -->
+    <Name>Red Roof PLUS+ Tempe - Phoenix Airport</Name>
+    <Name>Second Hotel Name</Name>
+    <Phone>480-555-3344</Phone>
+    <Address>
+      <Number>2135</Number>
+      <Street>S 48th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
