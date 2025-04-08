@@ -1,6 +1,6 @@
 <Hotels>
   <Hotel Rating="4.1">
-    <Name>University Inn Tempe/ASU</Name>
+    <Name>University Inn Tempe</Name>
     <Phone>480-555-1234</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>902</Number>
@@ -25,7 +25,7 @@
   </Hotel>
 
   <Hotel Rating="3.6">
-    <Name>Red Roof PLUS+ Tempe - Phoenix Airport</Name>
+    <Name>Red Roof PLUS Tempe Phoenix Airport</Name>
     <Phone>480-555-3344</Phone>
     <Address>
       <Number>2135</Number>
@@ -74,7 +74,7 @@
   </Hotel>
 
   <Hotel Rating="4.2">
-    <Name>Holiday Inn Express & Suites Tempe</Name>
+    <Name>Holiday Inn Express Suites Tempe</Name>
     <Phone>480-555-7788</Phone>
     <Phone>480-555-7789</Phone>
     <Address>
@@ -87,7 +87,7 @@
   </Hotel>
 
   <Hotel Rating="3.7">
-    <Name>Motel 6 Tempe, AZ – Phoenix Airport</Name>
+    <Name>Motel 6 Tempe Phoenix Airport</Name>
     <Phone>480-555-8899</Phone>
     <Address>
       <Number>1550</Number>
@@ -99,7 +99,7 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-    <Name>Moxy Phoenix Tempe/ASU Area</Name>
+    <Name>Moxy Phoenix Tempe</Name>
     <Phone>480-555-9900</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>1333</Number>
